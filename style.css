@@ -66,11 +66,13 @@ section{
     padding: 1px 9px;
     font-size: 20px;
 }
-.hint{
+.ext{
     background-image: url("imge/Group_33094_1.png");
     background-repeat: no-repeat;
     background-size: 60%;
     background-position: center;
+    
+   
 }
 .pin{
     text-decoration: none;
@@ -80,5 +82,40 @@ section{
     border-radius: 10%;
     font-weight: 700;
 }
-
+.ext{
+    width: 60%;
+    float: left;
+    margin-left: 15%;
+    padding-left: 10%;
+    height: 60%;
+    margin-top: -15%;
+}
+.ext h1{
+   transform: translate(155px,108px);
+}
+.pin{
+   margin:400px;
+   position: absolute;
+   margin-top: 55px;
+}
+.row{
+    color:gold ;
+}
+.final p{
+   text-align: center;
+   color: rgb(0, 0, 0);
+}
+.final h1{
+   text-align: center;
+}
+.final-2 img{
+    width: 40px;
+    
+}
+.final-2{
+   margin-left: 45%;
+}
+.four{
+    margin-top: -64px;
+}
 
