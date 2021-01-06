@@ -121,7 +121,7 @@ section{
 .cntact{
     width: 1000px;
     background-color: darkgray;
-    top: 305%;
+    top: 315%;
     left: 50%;
     transform: translate(-50%,-50%);
     position: absolute;
