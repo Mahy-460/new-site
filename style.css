@@ -23,7 +23,7 @@ section{
     width: 70%;
 }
 .span{
-    color: darkorange;
+    color: black;
 }
 .link{
     text-decoration: none;
@@ -118,4 +118,35 @@ section{
 .four{
     margin-top: -64px;
 }
-
+.cntact{
+    width: 1000px;
+    background-color: darkgray;
+    top: 305%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    
+}
+.form{
+    margin: 35px;
+}
+.input-field{
+    width: 400px;
+    height: 40px;
+    margin-top:20px;
+    padding-left: 5px;
+    border:2px solid brown;
+    padding-right: 500px;
+    outline: none;
+}
+.five{
+    margin-left:14%;
+    margin-top: -10%;
+    
+}
+.cntact h1{
+ text-align: center;
+ transform: translate(0%,20%);
+ font-size: 30px;
+ 
+}
